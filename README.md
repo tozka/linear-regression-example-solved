@@ -143,7 +143,7 @@ Please open up MyBinder to get started on the exercises!
 
 You can find the **solved** MyBinder environment here:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexanderAvramov/amld-linear-regression-example/HEAD?labpath=setup.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-solved/HEAD?labpath=setup.ipynb)
 
 For more information on MyBinder, please visit:
 
