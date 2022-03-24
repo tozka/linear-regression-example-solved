@@ -139,11 +139,14 @@ vdk deploy
 ## Exercises
 Please open up MyBinder to get started on the exercises! 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-unsolved/HEAD?labpath=setup.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-unsolved/HEAD?urlpath=lab/tree/setup.ipynb)
 
-You can find the **solved** MyBinder environment here:
+If you have any issue with above link try 
+ - [this one](https://ovh.mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-unsolved/HEAD?urlpath=lab/tree/setup.ipynb)
+ - [or this](https://gesis.mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-unsolved/HEAD?urlpath=lab/tree/setup.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-solved/HEAD?labpath=setup.ipynb)
+
+You can find the *solved* MyBinder environment [here](https://mybinder.org/v2/gh/versatile-data-kit-amld/linear-regression-example-solved/HEAD?labpath=setup.ipynb)
 
 For more information on MyBinder, please visit:
 
@@ -157,12 +160,6 @@ Through this scenario, you created a data job, which:
 * Built and tested a linear regression model
 * Built an interactive Streamlit dashboard, which showcased your model's predictive ability
 
-Congrats!
+**Congrats!**
 
-## Authored By
-Alexander Avramov
-
-Data Analyst at VMware Sofia
-
-[GitHub](https://github.com/AlexanderAvramov) | 
-[LinkedIn](https://www.linkedin.com/in/alexander-avramov)
+**[> Go back to main page of the Workshop.](https://github.com/versatile-data-kit-amld/workshop#ev-range-prediction)**
